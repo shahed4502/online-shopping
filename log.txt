@@ -1,0 +1,8 @@
+saved react-dom
+installed react-addons-pure-render-mixin
+added react-meteor-data
+added accounts-ui accounts-password
+installed flow router
+installed react-mounter
+removed insecure
+removed autopublish

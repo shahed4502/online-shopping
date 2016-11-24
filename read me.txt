@@ -1,0 +1,32 @@
+It is a basic Online Shopping site.
+
+Some Client side and some Server side works were done.
+
+In Server Side:
+
+There should be an account with the username 'admin'. Here we check the username with 'admin' and if it matches then we let it do server side works.
+These include:
+
+Upon signing in with the list of products delete buttons will appear. The admin can delete the products if he wishes. Also he can see the remaining quantity of each product.
+
+A 'Modify Data' button will also appear. Upon clicking it admin will be sent the the product insertion page. Here the admin can insert the details of a new product.
+
+Also after clicking on the 'Modify data' button navigation bar changes and on the right side bar Insert, Delete and View orders options are shown.
+
+Clicking on the 'delete' option will take the admin to the first page with products and delete buttons.
+
+Clicking on the 'View orders' option will take the admin the a page with list of orders made. If he wants to see any particular order, he should click the 'View Details' button and details will be shown.
+
+
+
+In Client side:
+
+Signing in with any other account other than the one with username 'admin' will result in showing a 'Enter to shop' button. Upon clicking it a 'Add to cart' buttons will appear under every product.
+
+Upon clicking on any products 'Add to cart' button 1 unit of that product will be added to the cart.
+
+If the user wants to place the order, he should click the 'View Cart' button at the bottom. Then he will be taken to a new page where the cart is shown along with two buttons 'Order' and 'Cancel'.
+
+Upon clicking the 'Order' button an order will be placed. If he wants to cancel then he can click on the 'Cancel' button. Both times he will be redirected to the Home Page.
+
+The client can also see the previous orders he has made by clicking on the 'View Previous Orders' on the navigation bar.
